@@ -1,1 +1,1 @@
-## Project name: RE Shop Web UI project
+## Project name: RE Shop Web UI
